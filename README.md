@@ -1,0 +1,1 @@
+Thanks for checking out my github page! I'm mostly interested in Python and Java, but I also have experience in HTML/CSS, Bash, and the Linux filesystem! I love discovering new open source projects and always looking to learn more, so feel free to leave suggestions on my pages!
